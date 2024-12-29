@@ -65,12 +65,12 @@ set error=-
 set user=""
 set wordlist=""
 echo.
-echo      |||||||||||||||||||||||||||||||||||||||                         
+echo      ---------------------------------------                         
 echo      U                                     U
 echo      U              BruteForce             U
 echo      U                                     U
 echo      U                                     U
-echo      |||||||||||||||||||||||||||||||||||||||   
+echo      ---------------------------------------   
 echo.
 echo    ╔════════════════════╗
 echo    ║  COMMANDS:         ║
